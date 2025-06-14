@@ -1,9 +1,9 @@
-HospitalCare — Система управления больницей
-HospitalCare — это веб-приложение на Django с использованием PostgreSQL, предназначенное для управления данными больницы. 
-Система предоставляет удобный интерфейс для администраторов, врачей, пациентов и регистраторов.
-Возможности:
-  Регистрация и авторизация пользователей с различными ролями;
-  Управление пациентами (добавление, редактирование, история);
-  Назначение и отслеживание приемов у врачей;
-  Хранение и отображение медицинских назначений и рекомендаций;
-  Административная панель для управления системой.
+## HospitalCare — Hospital Management System 
+HospitalCare is a Django web application using PostgreSQL, designed to manage hospital data. 
+The system provides a user-friendly interface for administrators, doctors, patients and registrars. 
+## Features: 
+  - Registration and authorization of users with different roles;
+  - Patient management (add, edit, history);
+  - Appointment and tracking of doctor appointments;
+  - Storage and display of medical appointments and recommendations;
+  - Administrative panel for managing the system.
